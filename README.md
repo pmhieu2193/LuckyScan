@@ -26,7 +26,7 @@ The Smart Lottery Ticket Image Processing System (LuckyScan) is a Python-based a
 |:--:|
 | Connect to Phone Camera |
 
-| ![Connection Successful](/Project_images/3_connect_sussceful.png) |
+| ![Connection Successful](/Project_images/3_connect_susscesful.png) |
 |:--:|
 | Connection Successful |
 
