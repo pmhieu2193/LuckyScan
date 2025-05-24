@@ -16,6 +16,56 @@ The Smart Lottery Ticket Image Processing System (LuckyScan) is a Python-based a
 - **Visualization**: Generate pie charts to display the distribution of winning prizes for a user.
 - **Interactive UI**: Tkinter-based interface for image display, result checking, and history management.
 
+### Application Screenshots
+
+| ![Main Interface](/Project_images/1_index.png) |
+|:--:|
+| Main Interface |
+
+| ![Connect to Phone Camera](/Project_images/2_connect_to_phone_camera.png) |
+|:--:|
+| Connect to Phone Camera |
+
+| ![Connection Successful](/Project_images/3_connect_sussceful.png) |
+|:--:|
+| Connection Successful |
+
+| ![Choose Local Picture](/Project_images/4_chose_local_picture.png) |
+|:--:|
+| Select One or Multiple Local Images |
+
+| ![System Shows Ticket Info](/Project_images/5_system_show_the_info_of_ticket.png) |
+|:--:|
+| System Displays Read Ticket Information |
+
+| ![Check the Result](/Project_images/6_check_the_result.png) |
+|:--:|
+| Click Button to View Result |
+
+| ![Show the Result](/Project_images/7_show_the_result.png) |
+|:--:|
+| System Displays Lottery Result |
+
+| ![Click Prize to See Another Region](/Project_images/8_click_to_prize_to_see_another_prize.png) |
+|:--:|
+| Select 'Prize' to View Regional Lottery Results |
+
+| ![Prize Result](/Project_images/9_prize_result.png) |
+|:--:|
+| Regional Results Displayed |
+
+| ![Show Your Check History](/Project_images/10_show_your_check_history.png) |
+|:--:|
+| Check History |
+
+| ![Show in Graph](/Project_images/11_show_in_graph.png) |
+|:--:|
+| Analyze Check Results with Chart |
+
+| ![Click Clear to Check Another Ticket](/Project_images/12_click_clear_to_check_another_ticket.png) |
+|:--:|
+| Select 'Clear' to Check Another Ticket |
+
 ## Technologies
 - **Programming Language**: Python 3
 - **Libraries and Frameworks**:
