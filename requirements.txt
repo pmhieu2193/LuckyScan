@@ -1,0 +1,10 @@
+opencv-python
+numpy
+Pillow
+pytesseract
+requests
+beautifulsoup4
+unidecode
+rembg
+matplotlib
+onnxruntime
